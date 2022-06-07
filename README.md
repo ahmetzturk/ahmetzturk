@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @ahmetzturk
-- 👀 I’m interested in AR and VR
-- 🌱 I’m currently learning how to make great games and apps
-- 💞️ I’m looking to collaborate on game projects
+- 👀 I’m interested in blockchain and solidity.
+- 👀 I’m also interested in AR and VR.
+- 🌱 I’m currently learning how to make great dapps.
+- 💞️ I’m looking to collaborate on dapp projects.
 - 📫 How to reach me https://www.linkedin.com/in/ahmetozturkinfo/
 
 <!---
